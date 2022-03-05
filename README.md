@@ -4,7 +4,6 @@
 
 🎓 I'm Matheus Sousa, a **Front End Web Developer** (specializing in **Vue Applications**).
 
-I am really enthusiastic about learning new technology. In 2021, I learned ****, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
 
 
 I am really enthusiastic about learning new technology. In 2021 learned **Nuxt**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. 
