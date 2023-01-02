@@ -1,6 +1,7 @@
 # Hi there!
 
-## 🚀 About Me
+<!---
+[## 🚀 About Me
 
 🎓 I'm Matheus Sousa, a **Front End Web Developer** (specializing in **Vue Applications**).
 
@@ -60,7 +61,8 @@ I am really enthusiastic about learning new technology. In 2021 learned **Nuxt**
 
 ### Testing
 
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](url)
+-->
 
 
 
