@@ -7,5 +7,5 @@ What excites me about DevOps is the possibility to work with complex infrastruct
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateSousa&show_icons=true&hide_border=true" alt="Mate Sousa GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MateSousa&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Mate Sousa GitHub Stats">
 
