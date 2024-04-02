@@ -1,5 +1,5 @@
 I'm a SRE, i like to talk about go, system design, kubernetes, observability, monitoring, hotel.........
 
-[error](error.jpeg)
+[error.jpeg](https://github.com/MateSousa/MateSousa/blob/main/error.jpeg)
 
 
